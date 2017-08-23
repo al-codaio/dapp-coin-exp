@@ -1,0 +1,61 @@
+{
+  "contract_name": "FernCoin",
+  "abi": [
+    {
+      "constant": true,
+      "inputs": [
+        {
+          "name": "_user",
+          "type": "address"
+        }
+      ],
+      "name": "getBalance",
+      "outputs": [
+        {
+          "name": "",
+          "type": "uint256"
+        },
+        {
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "payable": false,
+      "type": "constructor"
+    }
+  ],
+  "unlinked_binary": "0x6060604052341561000f57600080fd5b5b600160a060020a03331660009081526020819052604090206107d08155611f406001909101555b5b60dc806100466000396000f300606060405263ffffffff7c0100000000000000000000000000000000000000000000000000000000600035041663f8b2cb4f8114603c575b600080fd5b3415604657600080fd5b606573ffffffffffffffffffffffffffffffffffffffff60043516607d565b60405191825260208201526040908101905180910390f35b73ffffffffffffffffffffffffffffffffffffffff8116600090815260208190526040902080546001909101545b9150915600a165627a7a72305820d83def67e75588ee7d5ff82a61c5ffa41042cea92d41d477ad4ed56f9883c82f0029",
+  "networks": {
+    "1503460019472": {
+      "events": {},
+      "links": {},
+      "address": "0x6ae77c9ac06087370700e4aa6ca92c6ef94224b0",
+      "updated_at": 1503460032019
+    },
+    "1503461269633": {
+      "events": {},
+      "links": {},
+      "address": "0x09d0ac3fa1bbf841632722354c0c4d5143477c95",
+      "updated_at": 1503461280657
+    },
+    "1503461983681": {
+      "events": {},
+      "links": {},
+      "address": "0xe54f51a9fbbd1dfacc45ddfca5d95125adb2e3b4",
+      "updated_at": 1503462013362
+    },
+    "1503462141485": {
+      "events": {},
+      "links": {},
+      "address": "0xb7827548a256fdb860f30c834c994013b3da9400",
+      "updated_at": 1503462156025
+    }
+  },
+  "schema_version": "0.0.5",
+  "updated_at": 1503462156025
+}
