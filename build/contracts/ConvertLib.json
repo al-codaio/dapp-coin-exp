@@ -1,0 +1,110 @@
+{
+  "contract_name": "ConvertLib",
+  "abi": [
+    {
+      "constant": false,
+      "inputs": [
+        {
+          "name": "amount",
+          "type": "uint256"
+        },
+        {
+          "name": "conversionRate",
+          "type": "uint256"
+        }
+      ],
+      "name": "convert",
+      "outputs": [
+        {
+          "name": "convertedAmount",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "type": "function"
+    }
+  ],
+  "unlinked_binary": "0x60606040523415600e57600080fd5b5b60908061001d6000396000f300606060405263ffffffff7c010000000000000000000000000000000000000000000000000000000060003504166396e4ee3d8114603c575b600080fd5b6048600435602435605a565b60405190815260200160405180910390f35b8181025b929150505600a165627a7a723058205e8e83f2b9f40a3d3512f74a8e6b56ee595d78b1b68977e4367b04c6ec56e60a0029",
+  "networks": {
+    "1502737035024": {
+      "events": {},
+      "links": {},
+      "address": "0x19985a15b4d6cd2f510359c4dbba26307c5c53cb",
+      "updated_at": 1502749861404
+    },
+    "1502854404630": {
+      "events": {},
+      "links": {},
+      "address": "0x9982982380dd0675ad2813276873d372ab0f1785",
+      "updated_at": 1502854422028
+    },
+    "1502900291136": {
+      "events": {},
+      "links": {},
+      "address": "0xb57a25d706181b1270f94237494b3dc9f7cf0785",
+      "updated_at": 1502900320617
+    },
+    "1502901533557": {
+      "events": {},
+      "links": {},
+      "address": "0x9c461dcc05fb908d2f943d7f0608090759f62c92",
+      "updated_at": 1502901546045
+    },
+    "1502913139913": {
+      "events": {},
+      "links": {},
+      "address": "0x8c593836376e95fb696ee3e9c556a54809907a9b",
+      "updated_at": 1502913154880
+    },
+    "1502913718754": {
+      "events": {},
+      "links": {},
+      "address": "0x64f2109f8a33a5150baf184369d34e0d671b5c30",
+      "updated_at": 1502913733293
+    },
+    "1502914046052": {
+      "events": {},
+      "links": {},
+      "address": "0xb656475f895b85b5dffd9e0768144b0754a60d88",
+      "updated_at": 1502914072950
+    },
+    "1502914191641": {
+      "events": {},
+      "links": {},
+      "address": "0x430cc0e11a486e059e67739efc739f9e3bf12a81",
+      "updated_at": 1502914367990
+    },
+    "1502915147330": {
+      "events": {},
+      "links": {},
+      "address": "0xf7c2a2083d9b4d7c044e198700ff56463177acb6",
+      "updated_at": 1502915444918
+    },
+    "1502915758599": {
+      "events": {},
+      "links": {},
+      "address": "0x09f91ab8cf99128c12aa89c2cea7bc548df8bbea",
+      "updated_at": 1502915768510
+    },
+    "1502915827987": {
+      "events": {},
+      "links": {},
+      "address": "0x537c421c4aa74b1ae68d9b37afbfdc347aa7501c",
+      "updated_at": 1502915856105
+    },
+    "1502915959007": {
+      "events": {},
+      "links": {},
+      "address": "0x5d29fcabf18960ab5943d8d5e239677a54828d2d",
+      "updated_at": 1502915973152
+    },
+    "1503342002675": {
+      "events": {},
+      "links": {},
+      "address": "0xfc9b6a4c1a085a913663442d474e24fba035c66a",
+      "updated_at": 1503344386482
+    }
+  },
+  "schema_version": "0.0.5",
+  "updated_at": 1503344386482
+}
